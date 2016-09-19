@@ -1,0 +1,80 @@
+{
+  "name": "login",
+  "title": "登录",
+  "file": "index",
+  "settings": [],
+  "modules": [
+    {
+      "name": "moduleSlider",
+      "type": "text",
+      "version": "1.0.0",
+      "settings": [
+        {
+          "title": {
+            "zh": "slider1"
+          },
+          "desc": {
+            "zh": "content1"
+          },
+          "value": "data/images/testimg-1.jpg",
+          "href": "http://www.abloomy.com.cn"
+        },
+        {
+          "title": {
+            "zh": "slider2"
+          },
+          "desc": {
+            "zh": "content2"
+          },
+          "value": "data/images/testimg-2.jpg",
+          "href": "http://www.abloomy.com.cn"
+        },
+        {
+          "title": {
+            "zh": "slider3"
+          },
+          "desc": {
+            "zh": "content3"
+          },
+          "value": "data/images/testimg-3.jpg",
+          "href": "http://www.abloomy.com.cn"
+        }
+      ]
+    },
+    {
+      "name": "moduleLogin",
+      "version": "1.0.0",
+      "settings": [
+        {
+          "title": "用户登录",
+          "button": "登录"
+        }
+      ]
+    },
+    {
+      "name": "moduleBanner",
+      "type": "text",
+      "version": "1.0.0",
+      "settings": [
+        {
+          "title": "banner",
+          "value": "dest/img/03.png",
+          "href": "http://www.abloomy.com.cn"
+        }
+      ]
+    },
+    {
+      "name": "moduleContext",
+      "type": "textarea",
+      "version": "1.0.0",
+      "settings": [
+        {
+          "title": "context",
+          "desc": "标志：logo 广告：banner 登陆：login 登录条：loginbar 注册：regsiter 搜索：search 功能区：shop 标题：title 加入：joinus 状态：status 按钮：btn 滚动：scroll 标签页：tab 文章列表：list 提示信息：msg 当前的: current 小技巧：tips 图标: icon 注释：note 指南：guild 服务：service 热点：hot 新闻：news 下载：download 投票：vote 合作伙伴：partner 友情链接：link 版权：copyright编辑",
+          "value": "dest/img/04.jpg",
+          "href": "http://www.abloomy.com.cn"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+module.exports = {
+    RECEIVE_PAGE: 'RECEIVE_PAGE',
+    RECEIVE_GLOBAL: 'RECEIVE_GLOBAL'
+}

@@ -1,0 +1,95 @@
+{
+  "name": "index",
+  "title": "首页",
+  "file": "index.html",
+  "settings": [],
+  "modules": [
+    {
+      "name": "moduleCard",
+      "type": "text",
+      "version": "1.0.0",
+      "settings": [
+        {
+          "title": {
+            "zh": "卡片1"
+          },
+          "desc": {
+            "zh": "卡片描述1"
+          },
+          "value": "data/images/card-1.jpg",
+          "href": "http://www.abloomy.com.cn"
+        },
+        {
+          "title": {
+            "zh": "卡片2"
+          },
+          "desc": {
+            "zh": "卡片描述2"
+          },
+          "value": "data/images/card-2.jpg",
+          "href": "http://www.abloomy.com.cn"
+        },
+        {
+          "title": {
+            "zh": "卡片3"
+          },
+          "desc": {
+            "zh": "卡片描述3"
+          },
+          "value": "data/images/card-3.jpg",
+          "href": "http://www.abloomy.com.cn"
+        },
+        {
+          "title": {
+            "zh": "卡片4"
+          },
+          "desc": {
+            "zh": "卡片描述4"
+          },
+          "value": "data/images/card-4.jpg",
+          "href": "http://www.abloomy.com.cn"
+        },
+        {
+          "title": {
+            "zh": "卡片5"
+          },
+          "desc": {
+            "zh": "卡片描述5"
+          },
+          "value": "data/images/card-5.jpg",
+          "href": "http://www.abloomy.com.cn"
+        },
+        {
+          "title": {
+            "zh": "卡片6"
+          },
+          "desc": {
+            "zh": "卡片描述6"
+          },
+          "value": "data/images/card-6.jpg",
+          "href": "http://www.abloomy.com.cn"
+        },
+        {
+          "title": {
+            "zh": "卡片7"
+          },
+          "desc": {
+            "zh": "卡片描述7"
+          },
+          "value": "data/images/card-7.jpg",
+          "href": "http://www.abloomy.com.cn"
+        },
+        {
+          "title": {
+            "zh": "卡片8"
+          },
+          "desc": {
+            "zh": "卡片描述8"
+          },
+          "value": "data/images/card-8.jpg",
+          "href": "http://www.abloomy.com.cn"
+        }
+      ]
+    }
+  ]
+}

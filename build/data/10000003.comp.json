@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10000005",
+    "caption": "i18n_00003",//i18n + 翻译表id
+    "src": "image/slide001.jpg",
+    "href": "www.abloomy.com.cn",
+    "width": "800",
+    "height": "500"
+  },
+  {
+    "id": "10000006",
+    "caption": "i18n_00004",//i18n + 翻译表id
+    "src": "image/slide002.jpg",
+    "href": "www.abloomy.com.cn",
+    "width": "800",
+    "height": "500"
+  },
+  {
+    "id": "10000007",
+    "caption": "i18n_00005",//i18n + 翻译表id
+    "src": "image/slide003.jpg",
+    "href": "www.abloomy.com.cn",
+    "width": "800",
+    "height": "500"
+  }
+]

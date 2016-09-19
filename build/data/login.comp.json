@@ -1,0 +1,19 @@
+[
+  {
+    "id": "10000001",//组件配置主表id
+    "theme": "default",
+    "title": "i18n_00001"//i18n + 翻译表id
+  },
+  {
+    "id": "10000002",
+    "theme": "default",
+    "text": "i18n_00002"
+  },
+  {
+    "id": "10000003",
+    "theme": "default",
+    "speed": "1000",
+    "auto_start": true,
+    "components": "10000003.comp.json"
+  }
+]
